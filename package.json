@@ -1,0 +1,15 @@
+{
+  "name": "metalsmith-cssnext",
+  "version": "1.0.0",
+  "description": "Process your CSS files with cssnext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "license": "MIT",
+  "dependencies": {
+    "cssnext": "*",
+    "object-assign": "^4.0.1"
+  }
+}
